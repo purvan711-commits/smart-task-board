@@ -63,7 +63,7 @@ function App() {
     return (
         <div className='app'>
             <header>
-                <h1>Smart Task Board</h1>
+                <h1 style={{ color: 'white' }}>Smart Task Board</h1>
                 <p>React + Flask + SQLite</p>
             </header>
             {error && (

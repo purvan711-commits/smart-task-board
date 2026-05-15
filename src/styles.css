@@ -47,7 +47,7 @@ header p  { color: #6b7280; margin-top: 0.25rem; }
 .task-item.completed { opacity: 0.6; }
 .task-item.completed .task-title { text-decoration: line-through; color: #9ca3af; }
 
-.task-title { flex: 1; cursor: pointer; }
+.task-title { flex: 1; cursor: pointer; color: #f3f4f6; }
 .edit-input { flex: 1; padding: 0.25rem 0.5rem;
     border: 2px solid #2563eb; border-radius: 4px; font-size: 1rem; }
 
